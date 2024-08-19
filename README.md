@@ -40,7 +40,7 @@ Si prefieres no usar Git, puedes descargar el proyecto como un archivo ZIP desde
    ```bash
    lex fb1-1.l
 
-1. **COmpilar el Código C:**
+1. **Compilar el Código C:**
 
 Compila el archivo `lex.yy.c` usando gcc para crear el ejecutable lexer:
 
@@ -76,7 +76,7 @@ Vuelve a ejecutar el analizador para probar los cambios:
 
 
    ```bash
-./lexer
+   ./lexer
   
 
 ### 6. Problemas Comunes
